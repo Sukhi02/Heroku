@@ -25,7 +25,7 @@ SECRET_KEY = 'bvbp(zrrhju!$1!0_@=gyhtg#1t7il7^s=__@o-_e0%%%jqw%r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'heroku.herokuapp.com']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'smartfasal.herokuapp.com']
 
 
 # Application definition
